@@ -1,0 +1,7 @@
+2025-04-25 100500:haifa   Haifa   Rocket   Lebanon
+2025-04-25 101000:haifa   Acre   Rocket   Lebanon
+2025-04-25 101500:haifa   Haifa   Mortar   Lebanon
+2025-04-25 102000:center   Tel Aviv   Rocket   Gaza
+2025-04-25 102500:haifa   Nahariya   Rocket   Lebanon
+2025-04-25 103000:south   Beer Sheva   Rocket   Gaza
+2025-04-25 103500:haifa   Acre   Rocket   Lebanon
